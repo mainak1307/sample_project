@@ -1,1 +1,1 @@
-# sample_project
+# sample_project. This is just a readme file.
